@@ -1,0 +1,16 @@
+{
+  "name": "robo-vacuum",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Yan Soesilo"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
+}
